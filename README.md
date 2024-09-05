@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **axonde/axonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, i'm Axonde 🌊
+
+I'm young software engineer, moslty based on web development (now prefere frontend).
+Like the Goggins world vision - >> can't heart me
+`ITMO student`
+Thx to read this, sup
