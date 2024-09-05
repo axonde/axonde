@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Hi, i'm Axonde 🌊
 
-I'm young software engineer, moslty based on web development (now prefere frontend).
+I'm young software engineer, mostly based on web development (now preferred front-end).
 
-Like the Goggins world vision - **can't heart me**
+Like the Goggins world vision - **can't hurt me**
 
 `ITMO student`
 
