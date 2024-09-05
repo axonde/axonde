@@ -25,4 +25,4 @@ Like the Goggins world vision - **can't heart me**
 
 Thx to read this, sup
 
-![Master Yoda](https://raw.githubusercontent.com/axonde/axonde/6e7e720aeee573e02601e7a0ccd92b76a28223a4/master-yoda.png)
+![Master Yoda](https://github.com/axonde/axonde/blob/master/master-yoda.png)
