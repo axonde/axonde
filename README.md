@@ -1,6 +1,6 @@
 # Hi, i'm Axonde 🌊
 
-I'm young software engineer, mostly based on web development (now preferred front-end). Now learning c++, python, git, markdown, javascript and some other cool languages/libraries/technologies...
+I'm young software engineer, mostly based on web development (preferred front-end). Now learning c++, python, git, markdown, javascript and some other cool languages/libraries/technologies...
 
 Like the Goggins world vision - **can't hurt me**.
 
