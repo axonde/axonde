@@ -1,4 +1,4 @@
-# Hello there, i'm Axonde 🌊
+# Hello there, i'm xanauser 🌊
 
 I'm young software engineer, mostly based on web development (preferred front-end). Now learning c++, python, git, markdown, javascript and some other cool languages / libraries / technologies...
 
