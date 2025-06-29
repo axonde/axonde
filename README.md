@@ -6,4 +6,8 @@ Like the Goggins world vision - **can't hurt me**.
 
 Thx to read this 🙂
 
-![Master Yoda](https://github.com/axonde/axonde/blob/6d718b2f6d2cc2fa6f656faae3ccf41538813e58/img/master-yoda.png | width = 300)
+<img
+  src="https://github.com/axonde/axonde/blob/6d718b2f6d2cc2fa6f656faae3ccf41538813e58/img/master-yoda.png" 
+  width=300px
+  alt="Master Yoda"
+/>
