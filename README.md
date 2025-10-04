@@ -4,6 +4,8 @@ I'm young software engineer, mostly based on web development (preferred front-en
 
 Like the Goggins world vision - **can't hurt me**.
 
+And always remember: "If you think good architecture is expensive, try bad architecture".
+
 Thx to read this 🙂
 
 <img
