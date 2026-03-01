@@ -1,6 +1,6 @@
 # Hello there, i'm Axonde 🌊
 
-I'm young software engineer, mostly based on web development (preferred front-end). Now learning c++, python, git, javascript and some other cool languages / libraries / technologies...
+I'm young software engineer, mostly based on web development (preferred front-end -> Svelte). Now learning c++, python, git, javascript and some other cool languages / libraries / technologies...
 
 Puffing on Dart and mobiles (right now!)
 
