@@ -2,6 +2,8 @@
 
 I'm young software engineer, mostly based on web development (preferred front-end). Now learning c++, python, git, javascript and some other cool languages / libraries / technologies...
 
+Puffing on Dart and mobiles (right now!)
+
 Like the Goggins world vision - **can't hurt me**.
 
 Touched: "If you think good architecture is expensive, try bad architecture".
